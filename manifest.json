@@ -44,10 +44,10 @@
     },
     {
       "package": "com.newmillennium.news",
-      "versionCode": 11,
-      "versionName": "2.0.1",
+      "versionCode": 10,
+      "versionName": "2.0.0",
       "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/news-v10/news.apk",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sha256": "ea83c2af0fe65a9ee3037f6771de4302fa835fac17d9a85e5870b6612412849c",
       "forceUpdate": false
     }
   ]
