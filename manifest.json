@@ -20,11 +20,11 @@
     },
     {
       "package": "com.newmillennium.anime",
-      "versionCode": 10,
-      "versionName": "2.0.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v10/anime.apk",
-      "sha256": "32a508a71fed3f79ec6960fb3f0ecd77723d190fbce10782ffbee54d278df221",
-      "forceUpdate": false
+      "versionCode": 11,
+      "versionName": "2.0.1",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v11/anime.apk",
+      "sha256": "cb66df7f3d20b1a45faea937fffdb497caebe68ba030f6b1eec28b2d3347a755",
+      "forceUpdate": true
     },
     {
       "package": "com.newmillennium.sports",
