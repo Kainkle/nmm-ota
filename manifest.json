@@ -24,7 +24,7 @@
       "versionName": "2.0.2",
       "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v12/anime.apk",
       "sha256": "3cbddd015b3088c12008e2dbc52c01d4ecf92833cb99f4b4ec186768b3e573cd",
-      "forceUpdate": true
+      "forceUpdate": false
     },
     {
       "package": "com.newmillennium.sports",
