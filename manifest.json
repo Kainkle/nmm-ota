@@ -4,10 +4,10 @@
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 22,
-      "versionName": "2.0.2",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v22/home.apk",
-      "sha256": "692f22e54292d1414b0399045805c81639866e5e31c68c372bfbf116522a6c9b",
+      "versionCode": 23,
+      "versionName": "2.0.3",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v23/home.apk",
+      "sha256": "d60a62e9fb5e6899474a1db96fb6f83936d2a2d92a48ff35bb27d679437697ca",
       "forceUpdate": false
     },
     {
@@ -20,10 +20,10 @@
     },
     {
       "package": "com.newmillennium.anime",
-      "versionCode": 12,
-      "versionName": "2.0.2",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v12/anime.apk",
-      "sha256": "3cbddd015b3088c12008e2dbc52c01d4ecf92833cb99f4b4ec186768b3e573cd",
+      "versionCode": 13,
+      "versionName": "2.0.3",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v13/anime.apk",
+      "sha256": "b38a895679be66bdb7dd96ae113d93edd22f91af24bfe82e898af80efb80871f",
       "forceUpdate": false
     },
     {
