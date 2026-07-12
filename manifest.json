@@ -4,10 +4,18 @@
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 23,
-      "versionName": "2.0.3",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v23/home.apk",
-      "sha256": "d60a62e9fb5e6899474a1db96fb6f83936d2a2d92a48ff35bb27d679437697ca",
+      "versionCode": 24,
+      "versionName": "2.0.4",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v24/home.apk",
+      "sha256": "6cf3594ae1399a3e0bc8098ed306dfa572a1a96f45096ed606d1d1fc960561f2",
+      "forceUpdate": false
+    },
+    {
+      "package": "io.gh.reisxd.tizentube.cobalt",
+      "versionCode": 202,
+      "versionName": "2.0.2",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/tizentube-v202/tizentube.apk",
+      "sha256": "ff90c6e85c37246b809cca80282910509782c1384eccfbb6066da3b497dd9fd2",
       "forceUpdate": false
     },
     {
