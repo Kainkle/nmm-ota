@@ -12,10 +12,10 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 13,
-      "versionName": "1.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v13/movies.apk",
-      "sha256": "bae599995142dd8654d2c4af68e04a1a94866cf206c9315b64406a3df86a78db",
+      "versionCode": 14,
+      "versionName": "1.3.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v14/movies.apk",
+      "sha256": "30de4c77f742e8b96a00fdcf3bcbb760723aacb028cb998c7f20fc63770d1580",
       "forceUpdate": false
     },
     {
