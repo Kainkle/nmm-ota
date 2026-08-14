@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-07-10T19:10:00Z",
+  "generated": "2026-08-14T00:00:00Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -20,10 +20,18 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 14,
-      "versionName": "1.3.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v14/movies.apk",
-      "sha256": "30de4c77f742e8b96a00fdcf3bcbb760723aacb028cb998c7f20fc63770d1580",
+      "versionCode": 15,
+      "versionName": "2.0.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v15/movies.apk",
+      "sha256": "e710c6f9845263c039234be4a1ece9d5e7dfe8dd6e92d3cf48858375f30ccefc",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.nm.playerlab",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/playerlab-v1/playerlab.apk",
+      "sha256": "8eddd709a136411c0f643905a8c06f475a98b9bd901270fa596ca2c7133d672e",
       "forceUpdate": false
     },
     {
