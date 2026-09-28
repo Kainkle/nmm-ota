@@ -4,10 +4,10 @@
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 35,
-      "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v35/home.apk",
-      "sha256": "ce8c4c8c9b92e51c62be6d3e9f906bf8e5645e01ac9566b8e8946492466d651e",
+      "versionCode": 36,
+      "versionName": "2.2.1",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v36/home.apk",
+      "sha256": "b5bf30c4fa637099e4e659fe9d2add080555c1ec7030327433fb93103fa3ec18",
       "forceUpdate": false
     },
     {
@@ -20,10 +20,10 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 22,
-      "versionName": "2.1.5",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v22/movies.apk",
-      "sha256": "4d4476b5c90ecd737375a6404a4b5d2078254dc82bad675146a3512e2fe72300",
+      "versionCode": 23,
+      "versionName": "2.1.6",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v23/movies.apk",
+      "sha256": "a8d499edfc383274aa56b1e57f5988fe25a7ee058ab824f59636cc80a2ac4479",
       "forceUpdate": false
     },
     {
