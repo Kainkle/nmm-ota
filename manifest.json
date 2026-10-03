@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T09:05:00Z",
+  "generated": "2026-10-03T01:20:00Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 37,
-      "versionName": "2.2.2",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v37/home.apk",
-      "sha256": "108e848aed9081cbf8e87ec18c58a7fca7a078f5f0d8b8f9f54f095f5767c3f9",
+      "versionCode": 41,
+      "versionName": "2.2.6",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v41/home.apk",
+      "sha256": "b6ee578aa29c48bb3f02e0817edf76635a440241b972e132a05c0b455ff243dc",
       "forceUpdate": false
     },
     {
@@ -58,5 +58,13 @@
       "sha256": "ea83c2af0fe65a9ee3037f6771de4302fa835fac17d9a85e5870b6612412849c",
       "forceUpdate": false
     }
-  ]
+  ],
+  "release": {
+    "notes": [
+      "Updates now arrive right away",
+      "A new, simple update screen",
+      "Fixes behind the scenes"
+    ],
+    "required": false
+  }
 }
