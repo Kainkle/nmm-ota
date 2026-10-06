@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-10-03T01:20:00Z",
+  "generated": "2026-10-06T03:45:06Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 41,
-      "versionName": "2.2.6",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v41/home.apk",
-      "sha256": "b6ee578aa29c48bb3f02e0817edf76635a440241b972e132a05c0b455ff243dc",
+      "versionCode": 44,
+      "versionName": "2.2.9",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v44/home.apk",
+      "sha256": "1bced7a2473226bddf9f5fc9f84f671d70fab16ce47451d532c3b7ee2e300caf",
       "forceUpdate": false
     },
     {
@@ -20,18 +20,18 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 24,
-      "versionName": "2.1.7",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v24/movies.apk",
-      "sha256": "dd048296c3de7e0fad2bb580dbd3857f5f6664e4f27fa899be0b36c8f7933cd8",
+      "versionCode": 25,
+      "versionName": "2.1.8",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v25/movies.apk",
+      "sha256": "47b7e2ef74f86dd6c0049cc8f2cb7ca5d3dc3c2c752b76c119e78637531adeba",
       "forceUpdate": false
     },
     {
       "package": "com.newmillennium.anime",
-      "versionCode": 18,
-      "versionName": "2.1.7",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v18/anime.apk",
-      "sha256": "bcb567049de3e2533c018fda49d4321c9fe9c525b9387973cc7fe62d05a38e79",
+      "versionCode": 19,
+      "versionName": "2.1.8",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v19/anime.apk",
+      "sha256": "f29bdb929bd0c70e1a227511a29e8c53d3dc87cb720606a799419d4f4ffa7154",
       "forceUpdate": false
     },
     {
