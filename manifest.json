@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T18:15:45Z",
+  "generated": "2026-11-03T01:37:25Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -36,10 +36,10 @@
     },
     {
       "package": "com.newmillennium.sports",
-      "versionCode": 13,
-      "versionName": "2.1.2",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/sports-v13/sports.apk",
-      "sha256": "7f4b5c6cd438254b5cc6baf1ab8042dc2efbdc87fa6c422b565bb9fa34981d55",
+      "versionCode": 14,
+      "versionName": "2.1.3",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/sports-v14/sports.apk",
+      "sha256": "29c574243e38badcd49d7c9078f7ee5f4844a9e16c9a85f99fe3c18ab71c700b",
       "forceUpdate": false
     },
     {
@@ -61,8 +61,7 @@
   ],
   "release": {
     "notes": [
-      "Updates now arrive right away",
-      "A new, simple update screen",
+      "Live games are back in NMBlitz",
       "Fixes behind the scenes"
     ],
     "required": false
