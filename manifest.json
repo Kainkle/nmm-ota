@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T01:37:25Z",
+  "generated": "2026-11-06T04:27:16Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -44,10 +44,10 @@
     },
     {
       "package": "com.newmillennium.livetv",
-      "versionCode": 14,
+      "versionCode": 15,
       "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v14/livetv.apk",
-      "sha256": "c6e1ce86179c2d29bf818d6261fd69085fb4c8634fe02f3c69d3f9f6c3a215fa",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v15/livetv.apk",
+      "sha256": "4f19f70e3c102ad4b9d8ff7d5cd1563a671c6b317100db1cce983d97a5e099a7",
       "forceUpdate": false
     },
     {
@@ -61,7 +61,7 @@
   ],
   "release": {
     "notes": [
-      "Live games are back in NMBlitz",
+      "Live TV channels load again",
       "Fixes behind the scenes"
     ],
     "required": false
