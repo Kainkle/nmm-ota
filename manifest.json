@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T04:27:16Z",
+  "generated": "2026-11-07T17:12:16Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -44,10 +44,10 @@
     },
     {
       "package": "com.newmillennium.livetv",
-      "versionCode": 15,
+      "versionCode": 16,
       "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v15/livetv.apk",
-      "sha256": "4f19f70e3c102ad4b9d8ff7d5cd1563a671c6b317100db1cce983d97a5e099a7",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v16/livetv.apk",
+      "sha256": "f681c8f7ac7ade213ddc85e356c1ee4daff79bde4b22933390754137969c4e20",
       "forceUpdate": false
     },
     {
@@ -61,7 +61,7 @@
   ],
   "release": {
     "notes": [
-      "Live TV channels load again",
+      "Live TV channels play again",
       "Fixes behind the scenes"
     ],
     "required": false
