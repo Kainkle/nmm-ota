@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T21:45:15Z",
+  "generated": "2026-11-25T05:59:56Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 49,
-      "versionName": "2.4.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v49/home.apk",
-      "sha256": "51bd8405dacb0372ef7982df24250d00d3f93e3e70a602472169ad76d7f68d44",
+      "versionCode": 50,
+      "versionName": "2.4.1",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v50/home.apk",
+      "sha256": "3e26ea7fdb114202efb495facf67fc1803efa03eb0632ebd854c20931d9d3f7b",
       "forceUpdate": false
     },
     {
