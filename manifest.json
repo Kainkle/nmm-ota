@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-11-25T05:59:56Z",
+  "generated": "2026-11-26T14:33:53Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 50,
-      "versionName": "2.4.1",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v50/home.apk",
-      "sha256": "3e26ea7fdb114202efb495facf67fc1803efa03eb0632ebd854c20931d9d3f7b",
+      "versionCode": 53,
+      "versionName": "2.4.2",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/home-v53/home.apk",
+      "sha256": "a2d5da85081daf79a8936718a1705181b4a0dbfd3df867ad342789d2da1ce481",
       "forceUpdate": false
     },
     {
@@ -20,34 +20,34 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 28,
-      "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v28/movies.apk",
-      "sha256": "bc975d836dc70c5fbefdeefe2b16246c17b75187137d4e010c47af5586e1331b",
+      "versionCode": 30,
+      "versionName": "2.2.1",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/movies-v30/movies.apk",
+      "sha256": "b7ba6665bb803be90bf21c9419c4883497cb35afef146141d9bbe6531070bfac",
       "forceUpdate": false
     },
     {
       "package": "com.newmillennium.anime",
-      "versionCode": 22,
+      "versionCode": 23,
       "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v22/anime.apk",
-      "sha256": "5c2aebf9c289e2694fe0d9b20de27c0ba9ede14980b95994e980544cdf1d13d3",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/anime-v23/anime.apk",
+      "sha256": "9a88035811e8ad5e2eeb42216ef0e734ac920f71dfe831378561334bea571065",
       "forceUpdate": false
     },
     {
       "package": "com.newmillennium.sports",
-      "versionCode": 17,
+      "versionCode": 18,
       "versionName": "2.2.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/sports-v17/sports.apk",
-      "sha256": "56dc1ec70a5951fbdc1be3968f9c8a7d1c73d55246384c9b3f8eae6a557cadaa",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/sports-v18/sports.apk",
+      "sha256": "bf55de35827f40a4f6123062254ae2c9638ab192046e3e8bbf12a227969010fd",
       "forceUpdate": false
     },
     {
       "package": "com.newmillennium.livetv",
-      "versionCode": 19,
+      "versionCode": 20,
       "versionName": "2.3.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v19/livetv.apk",
-      "sha256": "1317c883be132dab21d1abd3ffd51f6b6ff279b0f0a68d60ad6193f7414a1f37",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota/releases/download/livetv-v20/livetv.apk",
+      "sha256": "2c1d17b4ecf7cd48a90116b597e12e358ece4fbf2fc17cfad5ca924ef1b4e4d5",
       "forceUpdate": false
     },
     {
@@ -61,7 +61,7 @@
   ],
   "release": {
     "notes": [
-      "Live TV channels play again",
+      "Show not playing? Press the TV button",
       "Fixes behind the scenes"
     ],
     "required": false
